@@ -1,0 +1,196 @@
+{
+  "works": [
+    {
+      "id": "w1",
+      "artisanId": "meena",
+      "title": "Indigo bagru stole",
+      "titleHi": "नील बगरू स्तोले",
+      "description": "Hand-block printed on handloom cotton with natural indigo.",
+      "descriptionHi": "प्राकृतिक नील से हाथ के ब्लॉक से छपा खादी सूती स्तोले।",
+      "image": "https://images.unsplash.com/photo-1601924357840-3c5d7480c809?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "w2",
+      "artisanId": "meena",
+      "title": "Marigold bedsheet set",
+      "titleHi": "गेंदे की चादर",
+      "description": "Sanganeri floral repeat dyed with marigold and pomegranate rind.",
+      "descriptionHi": "संगानेरी फूलों की छपाई, गेंदा और अनार छाल से रंगी।",
+      "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "w3",
+      "artisanId": "raju",
+      "title": "Terracotta water pot",
+      "titleHi": "मिट्टी का मटका",
+      "description": "Wheel-thrown pot fired in a wood kiln, lined for daily use.",
+      "descriptionHi": "चाक पर बना मटका, लकड़ी के भट्ठे में पकाया गया।",
+      "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "w4",
+      "artisanId": "raju",
+      "title": "Festival diya set",
+      "titleHi": "त्योहार के दीये",
+      "description": "Twenty-one hand-pinched lamps with a rice-husk glaze.",
+      "descriptionHi": "धान की भूसी की चमक वाले इक्कीस हाथ के दीये।",
+      "image": "https://images.unsplash.com/photo-1604605801373-3896e80a92e1?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "w5",
+      "artisanId": "lakshmi",
+      "title": "Kantha winter quilt",
+      "titleHi": "कांथा रजाई",
+      "description": "Running-stitch quilt made from worn saris, three months of work.",
+      "descriptionHi": "पुरानी साड़ियों से तीन महीने में सिलाई गई कांथा रजाई।",
+      "image": "https://images.unsplash.com/photo-1459501462159-97d5bded1416?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "w6",
+      "artisanId": "lakshmi",
+      "title": "Lotus wall hanging",
+      "titleHi": "कमल दीवार कला",
+      "description": "Narrative kantha panel of village ponds and lotus blooms.",
+      "descriptionHi": "गाँव के तालाब और कमल की कहानी वाली कांथा पैनल।",
+      "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "w7",
+      "artisanId": "tsering",
+      "title": "Walnut spice box",
+      "titleHi": "अखरोट मसाला डिब्बा",
+      "description": "Carved walnut wood with brass inlay, six compartments.",
+      "descriptionHi": "पीतल जड़ाई वाला अखरोट का मसाला बक्सा।",
+      "image": "https://images.unsplash.com/photo-1610701596061-2ecf227e85b2?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "w8",
+      "artisanId": "fatima",
+      "title": "Chikankari kurta",
+      "titleHi": "चिकनकारी कुर्ता",
+      "description": "Shadow-work white-on-white muslin, 40 days of stitch work.",
+      "descriptionHi": "सफेद मलमल पर छाया काम, चालीस दिन की सिलाई।",
+      "image": "https://images.unsplash.com/photo-1590735213920-68192a487bc6?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "artisans": [
+    {
+      "id": "meena",
+      "name": "Meena Devi",
+      "craft": "Bagru block printing",
+      "craftHi": "बगरू ब्लॉक प्रिंट",
+      "village": "Sanganer, Rajasthan",
+      "villageHi": "संगानेर, राजस्थान",
+      "bio": "Third-generation printer working with natural dyes. She trains six women from neighbouring villages on the wooden blocks her grandfather carved.",
+      "bioHi": "तीसरी पीढ़ी की ब्लॉक प्रिंटर। प्राकृतिक रंगों से काम करती हैं और पड़ोस के गाँव की छह महिलाओं को सिखाती हैं।",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+      "cover": "https://images.unsplash.com/photo-1601924357840-3c5d7480c809?auto=format&fit=crop&w=1200&q=80",
+      "requirement": {
+        "category": "materials",
+        "title": "Needs indigo and teak blocks",
+        "titleHi": "नील और सागौन ब्लॉक चाहिए",
+        "detail": "Last monsoon washed out the dye vats. Fresh indigo and two replacement teak blocks would keep the workshop open through winter orders.",
+        "detailHi": "पिछले मानसून में रंग की टंकियाँ खराब हो गईं। नई नील और दो सागौन ब्लॉक सर्दियों के ऑर्डर चला सकते हैं।",
+        "amount": "₹18,000"
+      },
+      "workIds": [
+        "w1",
+        "w2"
+      ]
+    },
+    {
+      "id": "raju",
+      "name": "Raju Prajapati",
+      "craft": "Terracotta pottery",
+      "craftHi": "टेराकोटा मिट्टी कला",
+      "village": "Khurja, Uttar Pradesh",
+      "villageHi": "खुर्जा, उत्तर प्रदेश",
+      "bio": "Throws functional ware on a kick wheel and fires with agricultural waste. Buyers in Delhi keep asking for more, but the kiln lining is cracked.",
+      "bioHi": "चाक पर रोज़मर्रा के बर्तन बनाते हैं। भट्ठे की परत टूटी हुई है, इसलिए उत्पादन रुक जाता है।",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+      "cover": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=1200&q=80",
+      "requirement": {
+        "category": "tools",
+        "title": "Needs kiln repair",
+        "titleHi": "भट्ठा मरम्मत चाहिए",
+        "detail": "A firebrick reline and a small pyrometer would cut wastage and let him take festival bulk orders.",
+        "detailHi": "नई ईंटें और तापमापी से बर्बादी घटेगी और त्योहारी ऑर्डर पूरे हो सकेंगे।",
+        "amount": "₹32,000"
+      },
+      "workIds": [
+        "w3",
+        "w4"
+      ]
+    },
+    {
+      "id": "lakshmi",
+      "name": "Lakshmi Bai",
+      "craft": "Kantha embroidery",
+      "craftHi": "कांथा कशीदाकारी",
+      "village": "Bolpur, West Bengal",
+      "villageHi": "बोलपुर, पश्चिम बंगाल",
+      "bio": "Leads a self-help group of twelve stitchers. Their quilts tell harvest stories, but they still sell only through a weekly haat.",
+      "bioHi": "बारह महिलाओं के समूह की अगुवाई करती हैं। रजाईयाँ अभी केवल साप्ताहिक हाट में बिकती हैं।",
+      "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=400&q=80",
+      "cover": "https://images.unsplash.com/photo-1459501462159-97d5bded1416?auto=format&fit=crop&w=1200&q=80",
+      "requirement": {
+        "category": "market",
+        "title": "Needs a fair market channel",
+        "titleHi": "न्यायसंगत बाज़ार चाहिए",
+        "detail": "Looking for an investor or buyer who can place a seasonal order and pay within 15 days so the group can buy new cloth.",
+        "detailHi": "मौसमी ऑर्डर और 15 दिन में भुगतान से समूह नया कपड़ा खरीद सकेगा।",
+        "amount": "₹40,000 order"
+      },
+      "workIds": [
+        "w5",
+        "w6"
+      ]
+    },
+    {
+      "id": "tsering",
+      "name": "Tsering Dorje",
+      "craft": "Walnut wood carving",
+      "craftHi": "अखरोट की नक्काशी",
+      "village": "Chamba, Himachal Pradesh",
+      "villageHi": "चंबा, हिमाचल प्रदेश",
+      "bio": "Carves spice boxes and window panels in the old Chamba style. Apprentices wait, but chisels are too worn for fine work.",
+      "bioHi": "पुरानी चंबा शैली में मसाला बक्से बनाते हैं। छेनियाँ घिस चुकी हैं।",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "cover": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=1200&q=80",
+      "requirement": {
+        "category": "tools",
+        "title": "Needs carving chisels",
+        "titleHi": "नक्काशी की छेनियाँ चाहिए",
+        "detail": "A set of tempered chisels and a sharpening stone would let him take on two apprentices this winter.",
+        "detailHi": "नई छेनियाँ से इस सर्दी दो प्रशिक्षु रख सकेंगे।",
+        "amount": "₹12,500"
+      },
+      "workIds": [
+        "w7"
+      ]
+    },
+    {
+      "id": "fatima",
+      "name": "Fatima Begum",
+      "craft": "Lucknowi chikankari",
+      "craftHi": "लखनवी चिकनकारी",
+      "village": "Kakori, Uttar Pradesh",
+      "villageHi": "काकोरी, उत्तर प्रदेश",
+      "bio": "Specialises in shadow-work on muslin. A small working-capital gap is delaying a wedding-season batch already reserved by a boutique.",
+      "bioHi": "मलमल पर छाया काम करती हैं। शादी के सीज़न का ऑर्डर कपड़े के पैसे अटकने से रुका है।",
+      "avatar": "https://images.unsplash.com/photo-1531123897727-8f1e563e6a0f?auto=format&fit=crop&w=400&q=80",
+      "cover": "https://images.unsplash.com/photo-1590735213920-68192a487bc6?auto=format&fit=crop&w=1200&q=80",
+      "requirement": {
+        "category": "funding",
+        "title": "Needs working capital",
+        "titleHi": "कार्यशील पूँजी चाहिए",
+        "detail": "Muslin, threads, and wages for four stitchers for six weeks before the boutique pays on delivery.",
+        "detailHi": "डिलीवरी से पहले छह हफ्ते के मलमल, धागे और चार कारीगरों की मज़दूरी।",
+        "amount": "₹55,000"
+      },
+      "workIds": [
+        "w8"
+      ]
+    }
+  ]
+}
